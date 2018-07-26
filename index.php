@@ -34,7 +34,7 @@ and open the template in the editor.
         </section>
         
         <section id="section-3">
-            <div class="box">
+            <div class="box brown">
                 <h2>What is Lorem Ipsum?</h2>
                 
                 <p>
@@ -50,7 +50,7 @@ and open the template in the editor.
                 </p>
             </div>
             
-            <div class="box">
+            <div class="box brown">
                 <h2>What is Lorem Ipsum?</h2>
                 
                 <p>
