@@ -37,6 +37,21 @@ header button:hover{
     padding: 20px;
     text-align: center;
 }
+#section-a h2, #section-b h2{
+    margin-bottom: 20px;
+}
+#section-3 {
+    display: flex;
+}
+#section-3 .box{
+    padding: 20px;
+}
+#section-3 .box h2{
+    margin-bottom: 20px;
+}
+#section-3 .box p{
+    text-align: justify;
+}
 footer{
     text-align: center;
     background-color: #926239;
