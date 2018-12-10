@@ -1,2 +1,2 @@
-# Beach siite
+# Beach site
 Vezba bootstrapa
