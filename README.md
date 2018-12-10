@@ -1,2 +1,2 @@
-# test
-ovo je test repository
+# Beach siite
+Vezba bootstrapa
